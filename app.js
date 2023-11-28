@@ -1,4 +1,4 @@
-const API_KEY = "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";
+const API_KEY = "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";
 
 async function getCompletion(prompt) {
   const response = await fetch(`https://api.openai.com/v1/completions`, {
